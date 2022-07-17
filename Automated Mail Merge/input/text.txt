@@ -1,0 +1,6 @@
+Greetings,
+
+The purpose of the mail is to test the sending mails automation
+
+Sincerly,
+guccigamp
